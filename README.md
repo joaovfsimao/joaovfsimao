@@ -1,5 +1,9 @@
 ## Hello, my name is João, and welcome to my GitHub! 
-*Feel free to connect with me on LinkedIn to ask any questions
+Feel free to connect with me on LinkedIn to ask any questions
+
+
+
+
 
 <div align="">
   <a href="https://github.com/joaovfsimao">
